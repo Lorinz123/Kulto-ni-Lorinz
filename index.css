@@ -17,22 +17,22 @@ h1{
    font-size: 30px;
 }
 h2{
-    color:#e0d69e;
+    color:#fd7709;
     text-align: center;
     font-family: monospace;
     font-size:15px;
 }
 h3{
-   color:#fffcd8;
+   color:#c4c3bb;
    text-align: center;
    font-family:monospace;
    font-size: 30px;
 }
 p1{
-    color:#fffcd8;
+    color:#c4c3bb;
     text-align: justify;
     font-family:monospace;
-    font-size: 15px; 
+    font-size: 20px; 
 }
 footer{
     color:#a7210f;
@@ -41,32 +41,32 @@ footer{
     font-size:20px;
 }
 h4{
-    color:#f0ba45;
+    color:#dab6a6;
     text-align: center;
     font-family:monospace;
     font-size: 30px;
 }
 ul{
-    color:#f0ba45;
+    color:#dab6a6;
     text-align: justify;
     font-family: monospace;
     font-size:20px;
 }
 p2{
-    color:#f0ba45;
+    color:#dab6a6;
     text-align: center;
     font-family: monospace;
     font-size:20px;
 
 }
 h5{
-    color:#aecaf0;
+    color:#adb7c5;
     text-align: center;
     font-family:monospace;
     font-size: 30px;
 }
 p3{
-color:#aecaf0;
+color:#adb7c5;
     text-align: center;
     font-family:monospace;
     font-size: 20px;
@@ -117,4 +117,10 @@ button{
 .more{
     text-align: center;
     margin-top: 15px;
+}
+img{
+    border-style: solid;
+    padding: 5px;
+    color: #a19d9d;
+    background-color: #1b1a1a;
 }
